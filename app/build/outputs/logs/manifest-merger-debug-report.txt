@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/79315eb4be5e2dccd3af449152c36471/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/80327428d59abd934ed07856f6c4560c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9c65760d13e0bb49852898fd19bbfc35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/935cadaec9eab439126ccbb839b208a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/39fdd10274401b9911c241fe7a91699a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f5748bc147b5fd6737fe166cc2474962/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/780dda37829e44e888c48638e7bdcef3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1c4fc8e2d15428b6d8afdbac7c18380c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8ebb07efb070b8539e8b0e135d75c81a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5b14662604aa5e3bf6d54396238952b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9e1a99335d552d9ff216ce74adb41147/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/79315eb4be5e2dccd3af449152c36471/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/79315eb4be5e2dccd3af449152c36471/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/80327428d59abd934ed07856f6c4560c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/80327428d59abd934ed07856f6c4560c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9c65760d13e0bb49852898fd19bbfc35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9c65760d13e0bb49852898fd19bbfc35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/935cadaec9eab439126ccbb839b208a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/935cadaec9eab439126ccbb839b208a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/39fdd10274401b9911c241fe7a91699a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/39fdd10274401b9911c241fe7a91699a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f5748bc147b5fd6737fe166cc2474962/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f5748bc147b5fd6737fe166cc2474962/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/780dda37829e44e888c48638e7bdcef3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/780dda37829e44e888c48638e7bdcef3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1c4fc8e2d15428b6d8afdbac7c18380c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1c4fc8e2d15428b6d8afdbac7c18380c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8ebb07efb070b8539e8b0e135d75c81a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8ebb07efb070b8539e8b0e135d75c81a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5b14662604aa5e3bf6d54396238952b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5b14662604aa5e3bf6d54396238952b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9e1a99335d552d9ff216ce74adb41147/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9e1a99335d552d9ff216ce74adb41147/AndroidManifest.xml:20:5-44
+INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipe/GitHub/SimpleCalc/app/src/main/AndroidManifest.xml
